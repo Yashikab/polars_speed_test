@@ -11,7 +11,7 @@ ipykernel = "^6.29.5"
 numpy = "^2.2.1"
 matplotlib = "^3.10.0"
 seaborn = "^0.13.2"
-polars = "1.17.1"
+polars = "1.18.0"
 
 
 [build-system]
